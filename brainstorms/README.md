@@ -6,3 +6,4 @@ file per session. Newest at the bottom.
 | Date | Session |
 |---|---|
 | 2026-09-10 | [Org and Repo Access Setup](./2026-09-10%2021-45%20—%20Org%20and%20Repo%20Access%20Setup.md) |
+| 2026-09-10 | [Automated Changelog and Release Pipeline](./2026-09-10%2023-45%20—%20Automated%20Changelog%20and%20Release%20Pipeline.md) |
