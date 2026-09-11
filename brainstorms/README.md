@@ -23,3 +23,4 @@ sequentially-reconstructed time; see each file's own header for which.
 | 2026-09-11 | [Architecture Rewrite and Licensing](./2026-09-11%2009-00%20—%20Architecture%20Rewrite%20and%20Licensing.md) |
 | 2026-09-11 | [Test 0: the First Real Code](./2026-09-11%2012-00%20—%20Test%200%3A%20the%20First%20Real%20Code.md) |
 | 2026-09-11 | [Verification Pass and Config Drift](./2026-09-11%2014-00%20—%20Verification%20Pass%20and%20Config%20Drift.md) |
+| 2026-09-11 | [Merge Discipline and a PR-Title Rule Correction](./2026-09-11%2015-30%20—%20Merge%20Discipline%20and%20a%20PR-Title%20Rule%20Correction.md) |
