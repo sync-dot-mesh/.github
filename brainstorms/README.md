@@ -20,3 +20,4 @@ sequentially-reconstructed time; see each file's own header for which.
 | 2026-09-10 | [Automated Changelog and Release Pipeline](./2026-09-10%2023-45%20—%20Automated%20Changelog%20and%20Release%20Pipeline.md) |
 | 2026-09-11 | [PR Housekeeping and the Release-PR Distinction](./2026-09-11%2000-15%20—%20PR%20Housekeeping%20and%20the%20Release-PR%20Distinction.md) |
 | 2026-09-11 | [Integration Testing Strategy](./2026-09-11%2001-00%20—%20Integration%20Testing%20Strategy.md) |
+| 2026-09-11 | [Architecture Rewrite and Licensing](./2026-09-11%2009-00%20—%20Architecture%20Rewrite%20and%20Licensing.md) |
