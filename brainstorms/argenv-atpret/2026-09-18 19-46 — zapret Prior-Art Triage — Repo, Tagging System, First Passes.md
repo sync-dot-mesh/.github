@@ -35,7 +35,7 @@ grouped and turned into automatic *catch → handle* rules for `atpret`. Standin
 
 ## 3. Progress and findings so far
 
-- 291/830 issues and 673/974 commits analyzed (issues up to #324; commits up to Jan 9 2025 plus all docs-only and
+- 325/830 issues and 771/974 commits analyzed (issues up to #384; commits up to May 4 2025, plus all docs-only and merge commits by an explicit rule). Cursor: next issue #386, next commit seq 517.
   merge commits by an explicit rule). Cursor: next issue #325, next commit seq 426.
 - The Aug-Oct 2024 issue surge is mostly unsupported-platform and "give me a config" requests; real defects are a minority.
 - A maintainer-stated platform limit can be **superseded**: nfqws "cannot do methodeol" (2020) became a feature in
@@ -44,10 +44,13 @@ grouped and turned into automatic *catch → handle* rules for `atpret`. Standin
 - The DPI may react differently to QUIC from different client libraries (a client-fingerprint dimension for probing).
 - Maintainer rule worth copying into support-bundle design: reports without capture files of a working and a failing
   attempt plus the config are not actionable.
+- Crafted-packet fidelity matters: an uninitialised IP TOS field in nfqws-generated packets made YouTube fail on a Samsung TV until fixed (#341), so every header field of crafted packets needs conformance testing.
+- Fake TLS content is a moving target: it became parametric in Jan 2025 and the default and GGC/Kyber fakes changed several times; treat fake generation as configurable, not constant.
+- Decisions reverse: HUP list reload was removed (Oct 2024) and returned (Jan 2025).
 
 ## 4. Open
 
 - Standalone repo vs `atpret/prior-art/`; licence.
 - **zapret2** is untouched, and `atpret` is described as its rewrite, so its history and issues are likely more
   relevant than z1's; likely next to bootstrap into the same structure.
-- About 540 issues and 300 commits remain in z1; commit diffs still unread.
+- About 505 issues and 203 commits remain in z1; commit diffs still unread.
