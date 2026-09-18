@@ -10,3 +10,4 @@ routinely affect the other.
 |---|---|
 | 2026-09-11 | [Naming atpret, Language Choice, and the argenv Dependency](./2026-09-11%20—%20Naming%2C%20Language%2C%20and%20the%20argenv%20Dependency.md) |
 | 2026-09-18 | [argenv CI Polish — Merged, With One Org-Level Blocker](./2026-09-18%20—%20argenv%20CI%20Polish.md) |
+| 2026-09-18 | [atpret Plan, Finalized](./2026-09-18%2016-00%20—%20atpret%20Plan%2C%20Finalized.md) |
