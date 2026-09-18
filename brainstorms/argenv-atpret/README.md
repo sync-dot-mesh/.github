@@ -12,3 +12,4 @@ routinely affect the other.
 | 2026-09-18 | [argenv CI Polish — Merged, With One Org-Level Blocker](./2026-09-18%20—%20argenv%20CI%20Polish.md) |
 | 2026-09-18 | [atpret Plan, Finalized](./2026-09-18%2016-00%20—%20atpret%20Plan%2C%20Finalized.md) |
 | 2026-09-18 | [Scope: core Is Unrelated](./2026-09-18%2016-30%20—%20Scope%20core%20Is%20Unrelated.md) |
+| 2026-09-18 | [zapret Prior-Art Triage — Repo, Tagging System, First Passes](./2026-09-18%2019-46%20%E2%80%94%20zapret%20Prior-Art%20Triage%20%E2%80%94%20Repo%2C%20Tagging%20System%2C%20First%20Passes.md) |
